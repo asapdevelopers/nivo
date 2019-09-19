@@ -15,3 +15,4 @@ export const gradientTypes = {
 }
 
 export * from './LinearGradient'
+export * from './LinearGradientHorizontal'
