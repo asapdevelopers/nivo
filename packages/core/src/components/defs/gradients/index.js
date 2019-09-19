@@ -7,9 +7,11 @@
  * file that was distributed with this source code.
  */
 import { LinearGradient } from './LinearGradient'
+import { LinearGradientHorizontal } from './LinearGradientHorizontal'
 
 export const gradientTypes = {
     linearGradient: LinearGradient,
+    linearGradientHorizontal: LinearGradientHorizontal
 }
 
 export * from './LinearGradient'
